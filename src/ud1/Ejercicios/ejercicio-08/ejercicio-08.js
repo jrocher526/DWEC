@@ -1,0 +1,1 @@
+alert("Hola 'Jhonal', esto tiene \"varios tipos\" de comillas");
